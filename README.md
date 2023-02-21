@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrewq18
-- 👀 I’m interested in ... carrer in IT
-- 🌱 I’m currently learning ... Software engineering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... carrer in IT/software development
+- 🌱 I’m currently learning ... Software engineering/Computer Science
+- 💞️ I’m looking to collaborate on ...Websites/webpages/video games
 - 📫 How to reach me ... andrewquintero4489@gmail.com
 
 <!---
